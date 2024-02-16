@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T20:37:06 IST" name="Default suite" finished-at="2024-02-16T20:41:18 IST" duration-ms="252110">
+    <groups>
+    </groups>
+    <test started-at="2024-02-16T20:37:06 IST" name="Default test" finished-at="2024-02-16T20:41:18 IST" duration-ms="252110">
+      <class name="TestScript.AmazonTestScripts">
+        <test-method is-config="true" signature="setupBrowser_And_LaunchUrl()[pri:0, instance:TestScript.AmazonTestScripts@3c46e67a]" started-at="2024-02-16T20:37:06 IST" name="setupBrowser_And_LaunchUrl" finished-at="2024-02-16T20:37:10 IST" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser_And_LaunchUrl -->
+        <test-method signature="amazonApplication()[pri:0, instance:TestScript.AmazonTestScripts@3c46e67a]" started-at="2024-02-16T20:37:10 IST" name="amazonApplication" finished-at="2024-02-16T20:41:18 IST" duration-ms="248519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonApplication -->
+      </class> <!-- TestScript.AmazonTestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
